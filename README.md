@@ -6,7 +6,7 @@ This my NPX card unique style to connect with me directly via console or termina
 
 ⬇️just copy or type
 ```bash
-npx faman
+npx faman272
 ```
 
 <hr/>
